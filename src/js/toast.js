@@ -146,7 +146,7 @@ const toastAlert = new toast({
     timing: "10000", // Time toast appears until disappear- accepts millisecond value,
     user_action_required:false,
     type:"regular",
-    theme:"dark",
+    theme:"light",
     colors:{
         text:"#333",
         progress:"#f44336"
